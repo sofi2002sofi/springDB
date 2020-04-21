@@ -1,0 +1,13 @@
+ua\lviv\iot\spring\labseven\data\StudentRepository.class
+ua\lviv\iot\spring\labseven\data\GroupRepository.class
+ua\lviv\iot\spring\labseven\rest\RestAplication\model\Group.class
+ua\lviv\iot\spring\labseven\rest\RestAplication\model\Subject.class
+ua\lviv\iot\spring\labseven\rest\RestApplication.class
+ua\lviv\iot\spring\labseven\rest\RestAplication\controller\GroupsController.class
+ua\lviv\iot\spring\labseven\business\StudentService.class
+ua\lviv\iot\spring\labseven\rest\RestAplication\model\Student.class
+ua\lviv\iot\spring\labseven\business\GroupService.class
+ua\lviv\iot\spring\labseven\rest\RestAplication\controller\StudentsController.class
+ua\lviv\iot\spring\labseven\rest\RestAplication\controller\SubjectController.class
+ua\lviv\iot\spring\labseven\business\SubjectService.class
+ua\lviv\iot\spring\labseven\data\SubjectRepository.class

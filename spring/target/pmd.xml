@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.21.0" timestamp="2020-04-21T10:31:06.743">
+<file name="C:\Універ\Лабораторні алгоритмізація та програмування\springDB-spring\spring\src\main\java\ua\lviv\iot\spring\labseven\rest\RestAplication\controller\StudentsController.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="28" rule="UnusedImports" ruleset="Best Practices" package="ua.lviv.iot.spring.labseven.rest.RestAplication.controller" class="StudentsController" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.util.LinkedList'
+</violation>
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="49" rule="UnusedImports" ruleset="Best Practices" package="ua.lviv.iot.spring.labseven.rest.RestAplication.controller" class="StudentsController" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'java.util.concurrent.atomic.AtomicInteger'
+</violation>
+<violation beginline="23" endline="23" begincolumn="64" endcolumn="64" rule="EmptyStatementNotInLoop" ruleset="Error Prone" package="ua.lviv.iot.spring.labseven.rest.RestAplication.controller" class="StudentsController" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_errorprone.html#emptystatementnotinloop" priority="3">
+An empty statement (semicolon) not part of a loop
+</violation>
+</file>
+<file name="C:\Універ\Лабораторні алгоритмізація та програмування\springDB-spring\spring\src\main\java\ua\lviv\iot\spring\labseven\rest\RestAplication\controller\SubjectController.java">
+<violation beginline="13" endline="13" begincolumn="1" endcolumn="69" rule="UnusedImports" ruleset="Best Practices" package="ua.lviv.iot.spring.labseven.rest.RestAplication.controller" class="SubjectController" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'ua.lviv.iot.spring.labseven.rest.RestAplication.model.Student'
+</violation>
+</file>
+<file name="C:\Універ\Лабораторні алгоритмізація та програмування\springDB-spring\spring\src\main\java\ua\lviv\iot\spring\labseven\rest\RestAplication\model\Student.java">
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="43" rule="UnusedImports" ruleset="Best Practices" package="ua.lviv.iot.spring.labseven.rest.RestAplication.model" class="Student" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'org.springframework.http.HttpStatus'
+</violation>
+<violation beginline="9" endline="9" begincolumn="1" endcolumn="59" rule="UnusedImports" ruleset="Best Practices" package="ua.lviv.iot.spring.labseven.rest.RestAplication.model" class="Student" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'org.springframework.http.ResponseEntity.BodyBuilder'
+</violation>
+<violation beginline="10" endline="10" begincolumn="1" endcolumn="62" rule="UnusedImports" ruleset="Best Practices" package="ua.lviv.iot.spring.labseven.rest.RestAplication.model" class="Student" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'org.springframework.http.ResponseEntity.HeadersBuilder'
+</violation>
+<violation beginline="30" endline="30" begincolumn="30" endcolumn="37" rule="UnusedPrivateField" ruleset="Best Practices" package="ua.lviv.iot.spring.labseven.rest.RestAplication.model" class="Student" variable="subjects" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'subjects'.
+</violation>
+</file>
+<file name="C:\Універ\Лабораторні алгоритмізація та програмування\springDB-spring\spring\src\main\java\ua\lviv\iot\spring\labseven\rest\RestAplication\model\Subject.java">
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="37" rule="UnusedImports" ruleset="Best Practices" package="ua.lviv.iot.spring.labseven.rest.RestAplication.model" class="Subject" externalInfoUrl="https://pmd.github.io/pmd-6.21.0/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'javax.persistence.CascadeType'
+</violation>
+</file>
+</pmd>
